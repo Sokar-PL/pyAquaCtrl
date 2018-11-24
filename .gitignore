@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+# Pycharm
+.idea
+.Idea
+
+# PyChache
+*.pyc
+__pychache__
